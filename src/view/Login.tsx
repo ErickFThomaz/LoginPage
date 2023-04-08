@@ -89,7 +89,7 @@ export default function Login() {
                     </div>
                 </div>
                 <div className="hidden md:relative md:block md:w-1/2">
-                    <img className="md:h-screen md:w-screen" src="../../src/assets/side-image.jpg"/>
+                    <img className="md:h-screen md:w-screen" src="/img/side-image.jpg"/>
                 </div>
             </div>
         </>
